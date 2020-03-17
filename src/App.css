@@ -1,0 +1,22 @@
+.p-10{
+  padding: 10px;
+  margin: 10px;
+}
+.typo{
+color: aliceblue;
+text-align: center;
+
+}
+
+.header-component{
+  font-weight: 800;
+  background-color: blueviolet;
+}
+.list-component{
+background-color: #bfc2c5;
+font-family: monospace;
+font-size: 17px;
+}
+.icon-style{
+font-size: 22px!important;
+}
