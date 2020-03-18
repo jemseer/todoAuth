@@ -6,7 +6,7 @@ const Index = () => {
 
         <div className=" p-10 typo header-component">
             Todo
-                 </div>
+     </div>
 
 
     )

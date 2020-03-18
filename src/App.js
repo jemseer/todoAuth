@@ -18,7 +18,10 @@ function App() {
           <Col sm={4}>
             <Header />
             <TaskBar />
+
             <TaskList />
+
+
           </Col>
           <Col sm={4}></Col>
         </Row>

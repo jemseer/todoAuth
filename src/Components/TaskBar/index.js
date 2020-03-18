@@ -7,7 +7,7 @@ const Index = () => {
             <InputGroup className="mb-3">
                 <FormControl
                     placeholder="Type Todo"
-
+                    value=""
                 />
                 <InputGroup.Append>
                     <Button variant="outline-secondary">ADD</Button>
